@@ -17,14 +17,14 @@ https://colab.research.google.com/drive/1fpaTcSotehNRZchrfRZ9pg9O1U0KUJa-?usp=sh
 https://colab.research.google.com/drive/1eiFqMcZzV_y6JBg84sUoxM0w-LesMDAc?usp=sharing
 
 #### Comentarios:
-a) Se realizó el análisis de todos los códigos de web scraping para entender las funciones de cada una de las líbrerías de Python.
-b) La página web que se nos entregó para realizar el trabajo práctico estaba dado de baja. Aplicando los comandos del ejercicio nos botaba errores y al analizarlo, se debía a que la información que se pedía buscar, no existía. Por lo que tuvimos que realizar cambios al momento de realizar las peticiones.
+- Se realizó el análisis de todos los códigos de web scraping para entender las funciones de cada una de las líbrerías de Python.
+- La página web que se nos entregó para realizar el trabajo práctico estaba dado de baja. Aplicando los comandos del ejercicio nos botaba errores y al analizarlo, se debía a que la información que se pedía buscar, no existía. Por lo que tuvimos que realizar cambios al momento de realizar las peticiones.
 
 
 ## Tercer Trabajo Práctico: Proyección de ventas de viviendas por zona en Ames, Iowa utilizando Machine Learning.
 https://github.com/MarioBast/House_Prices
 #### Comentarios:
-a) En este trabajo se analizaron las características de las viviendas de la ciudad de Ames, Iowa, con el objetivo de identificar las razones por las que ciertas zonas presentan menos ventas y proyectar la cantidad de casas que se venderán en el año 2010 en cada vecindario.
-b) Se emplearon técnicas de análisis exploratorio, visualización de datos y Machine Learning (Random Forest) para realizar la proyección y detectar las zonas con mayor potencial inmobiliario.
-c) Los resultados muestran diferencias significativas entre las zonas comerciales y residenciales, aportando insumos útiles para el sector inmobiliario y la planificación urbana.
+- En este trabajo se analizaron las características de las viviendas de la ciudad de Ames, Iowa, con el objetivo de identificar las razones por las que ciertas zonas presentan menos ventas y proyectar la cantidad de casas que se venderán en el año 2010 en cada vecindario.
+- Se emplearon técnicas de análisis exploratorio, visualización de datos y Machine Learning (Random Forest) para realizar la proyección y detectar las zonas con mayor potencial inmobiliario.
+- Los resultados muestran diferencias significativas entre las zonas comerciales y residenciales, aportando insumos útiles para el sector inmobiliario y la planificación urbana.
 
