@@ -4,10 +4,10 @@ Entrega del link de un repositorio general en GitHub en donde se encuentran los 
 ## Primer Trabajo Práctico: Creación de un repositorio en GIthub relacionado con un tema de Ciberseguridad.
 https://github.com/erick2k/zabbix
 ### Comentarios:
-a) Se creó un repositorio master 
-b)Se crearon las ramas por cada uno de los integrantes del grupo 
-c) Se aplicó versionamiento en los ejercicios
-d)Se solventaron los problemas que se iban presentando al momento de ejecutar los pull request's, conforme a las indicaciones del pedido en el trabajo práctico.
+- Se creó un repositorio master.
+- Se crearon las ramas por cada uno de los integrantes del grupo 
+- Se aplicó versionamiento en los ejercicios
+- Se solventaron los problemas que se iban presentando al momento de ejecutar los pull request's, conforme a las indicaciones del pedido en el trabajo práctico.
 
 
 ## Segundo Trabajo Práctico: Descripción de un código en Google Colab (Notebook) con Web Scraping.
